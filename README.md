@@ -51,6 +51,5 @@ We use this categorical data encoding technique when the features are nominal(do
 ![image](https://github.com/user-attachments/assets/ec6366d4-f1e5-4813-b89c-6637a0e32042)
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
-
+       Thus the given data,feature encoding,transformation process and save the data to a file
        
